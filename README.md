@@ -1,5 +1,4 @@
 [Front End React Repository](https://github.com/SidM77/Code-Cider-Frontend)
-[Figma assets](https://www.figma.com/design/WcJPgyvfeJf30lXvhIWqqQ/Untitled?node-id=5-3&t=aC1xr1t3YUYxLocS-1)
 
 V 2.0 New Upcoming Features
 - Spring Security Implementation on Admin Panel
